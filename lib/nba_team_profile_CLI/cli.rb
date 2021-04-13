@@ -13,7 +13,7 @@ class Cli
     end
     
     def greet(name) #greet takes user_input which is the name the user enters at the start of the application.
-      puts "Hello #{name} lets get started today. Would you like to see some team information? enter yes to see list, enter exit to leave."
+      puts "Hello #{name} lets get started today. Would you like to see updated information for your favorite NBA Team? enter yes to see list, enter exit to leave."
             menu
     end
 
