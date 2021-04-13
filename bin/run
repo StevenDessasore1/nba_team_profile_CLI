@@ -1,0 +1,9 @@
+#!/usr/bin/env ruby
+
+require_relative '../lib/environment.rb'
+
+# cli = CLI.new (same as below)
+# cli. start (same as below)
+
+
+Cli.new.start # This starts the application
