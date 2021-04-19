@@ -1,4 +1,4 @@
-# Real information inserted into our application. This infomation comes from the api site and loads in the application.
+
 
 class API
     def self.get_data
