@@ -8,7 +8,9 @@ class Cli
 
     end
     
-    
+    def user_input   
+        gets.strip
+    end
     
     def greet(name) 
       puts "Hello #{name} lets get started today. Would you like to see updated information for your favorite NBA Team? enter yes to see list, enter exit to leave."
