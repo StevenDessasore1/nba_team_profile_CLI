@@ -8,11 +8,11 @@ class Cli
 
     end
     
-    def user_input  #dot(.)strip over chomp catches all the white space before and after, will just get that text  
+    def user_input  dot(.)strip over chomp catches all the white space before and after, will just get that text  
         gets.strip
     end
     
-    def greet(name) #greet takes user_input which is the name the user enters at the start of the application.
+    def greet(name) 
       puts "Hello #{name} lets get started today. Would you like to see updated information for your favorite NBA Team? enter yes to see list, enter exit to leave."
             menu
     end
