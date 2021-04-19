@@ -19,15 +19,11 @@ class Cli
 
     def menu
         selection = user_input
-        # enter yes print out a list of teams
         if selection == "yes"
-            #print nba teams
-        # enter exit I want them to exit 
                 print_teams
-                menu #recrusion waiting for another command (slection)
+                menu 
         elsif selection == "exit"
             goodbye
-            #exit application
         else 
             invalid
         
