@@ -64,7 +64,7 @@ end
         else 
             team = selection
         end
-      # puts "input yes to see a list or exit to leave list"
+      
         team_details(team)
 
     end
