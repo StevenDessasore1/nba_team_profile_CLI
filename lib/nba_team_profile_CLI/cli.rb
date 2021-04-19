@@ -30,7 +30,7 @@ class Cli
             #exit application
         else 
             invalid
-        #invalid message , lets user keep trying to enter
+        
     end
         
 end
