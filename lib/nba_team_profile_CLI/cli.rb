@@ -76,7 +76,7 @@ end
         puts "City: #{team.city}"
         puts ""
         puts ""
-        puts " This is your team #{team.full_name}"
+        puts " This is your NBA team. The #{team.full_name} !!!!"
         puts "---------------------------------------------"
         puts "enter yes to see more teams or exit to exit"
         
