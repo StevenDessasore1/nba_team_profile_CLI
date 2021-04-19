@@ -32,10 +32,7 @@ class Cli
             invalid
         #invalid message , lets user keep trying to enter
     end
-        #enter yes print a list of nba teams
-        #enter exit will i want them to exit
-        # invalid message
-
+        
 end
 
     def goodbye
